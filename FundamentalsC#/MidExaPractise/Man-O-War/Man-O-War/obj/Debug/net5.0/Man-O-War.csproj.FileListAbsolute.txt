@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\Man-O-War.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\Man-O-War.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\Man-O-War.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\Man-O-War.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\Man-O-War.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\ref\Man-O-War.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\bin\Debug\net5.0\Man-O-War.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\ref\Man-O-War.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Man-O-War\Man-O-War\obj\Debug\net5.0\Man-O-War.genruntimeconfig.cache

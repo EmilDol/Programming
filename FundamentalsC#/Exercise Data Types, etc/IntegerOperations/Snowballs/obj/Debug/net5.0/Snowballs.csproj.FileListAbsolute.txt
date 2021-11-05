@@ -1,0 +1,5 @@
+D:\School\SoftUni\FundamentalsC#\Exercise Data Types, etc\IntegerOperations\Snowballs\obj\Debug\net5.0\Snowballs.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\Exercise Data Types, etc\IntegerOperations\Snowballs\obj\Debug\net5.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\Exercise Data Types, etc\IntegerOperations\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\Exercise Data Types, etc\IntegerOperations\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\Exercise Data Types, etc\IntegerOperations\Snowballs\obj\Debug\net5.0\Snowballs.csproj.CoreCompileInputs.cache

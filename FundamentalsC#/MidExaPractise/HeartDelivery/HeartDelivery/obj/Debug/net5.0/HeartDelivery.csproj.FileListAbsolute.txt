@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\HeartDelivery.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\HeartDelivery.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\HeartDelivery.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\HeartDelivery.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\HeartDelivery.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\ref\HeartDelivery.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\bin\Debug\net5.0\HeartDelivery.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\ref\HeartDelivery.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\HeartDelivery\HeartDelivery\obj\Debug\net5.0\HeartDelivery.genruntimeconfig.cache

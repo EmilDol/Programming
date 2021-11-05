@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SoftUni2.7/1.0.0": {
+        "runtime": {
+          "SoftUni2.7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUni2.7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

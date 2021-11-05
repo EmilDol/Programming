@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ExperienceGaining.exe
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ExperienceGaining.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ExperienceGaining.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ExperienceGaining.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ExperienceGaining.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ref\ExperienceGaining.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\bin\Debug\net5.0\ExperienceGaining.pdb
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ref\ExperienceGaining.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.pdb
+D:\School\SoftUni\FundamentalsC#\MidExam\ExperienceGaining\ExperienceGaining\obj\Debug\net5.0\ExperienceGaining.genruntimeconfig.cache

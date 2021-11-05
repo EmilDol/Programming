@@ -1,0 +1,16 @@
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\SoftUni11.1.exe
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\SoftUni11.1.deps.json
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\SoftUni11.1.runtimeconfig.json
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\SoftUni11.1.runtimeconfig.dev.json
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\SoftUni11.1.dll
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\ref\SoftUni11.1.dll
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\bin\Debug\net5.0\SoftUni11.1.pdb
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.csproj.AssemblyReference.cache
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.AssemblyInfoInputs.cache
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.AssemblyInfo.cs
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.dll
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\ref\SoftUni11.1.dll
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.pdb
+D:\School\SoftUni\EleventhLesson\SoftUni11.1\SoftUni11.1\obj\Debug\net5.0\SoftUni11.1.genruntimeconfig.cache

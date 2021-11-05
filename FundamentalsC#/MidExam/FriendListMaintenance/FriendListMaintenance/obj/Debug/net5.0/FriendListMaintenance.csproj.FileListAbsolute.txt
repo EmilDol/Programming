@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\FriendListMaintenance.exe
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\FriendListMaintenance.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\FriendListMaintenance.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\FriendListMaintenance.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\FriendListMaintenance.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\ref\FriendListMaintenance.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\bin\Debug\net5.0\FriendListMaintenance.pdb
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\ref\FriendListMaintenance.dll
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.pdb
+D:\School\SoftUni\FundamentalsC#\MidExam\FriendListMaintenance\FriendListMaintenance\obj\Debug\net5.0\FriendListMaintenance.genruntimeconfig.cache

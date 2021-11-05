@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\Lift.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\Lift.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\Lift.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\Lift.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\Lift.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\ref\Lift.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\bin\Debug\net5.0\Lift.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\ref\Lift.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Lift\Lift\obj\Debug\net5.0\Lift.genruntimeconfig.cache

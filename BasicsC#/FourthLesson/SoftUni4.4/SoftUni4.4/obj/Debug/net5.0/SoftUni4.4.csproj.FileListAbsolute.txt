@@ -1,0 +1,16 @@
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\SoftUni4.4.exe
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\SoftUni4.4.deps.json
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\SoftUni4.4.runtimeconfig.json
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\SoftUni4.4.runtimeconfig.dev.json
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\SoftUni4.4.dll
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\ref\SoftUni4.4.dll
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\bin\Debug\net5.0\SoftUni4.4.pdb
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.csproj.AssemblyReference.cache
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.AssemblyInfoInputs.cache
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.AssemblyInfo.cs
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.dll
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\ref\SoftUni4.4.dll
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.pdb
+D:\School\SoftUni\FourthLesson\SoftUni4.4\SoftUni4.4\obj\Debug\net5.0\SoftUni4.4.genruntimeconfig.cache

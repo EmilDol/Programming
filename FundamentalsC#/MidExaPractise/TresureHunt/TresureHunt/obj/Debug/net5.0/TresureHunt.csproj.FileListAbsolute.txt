@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\TresureHunt.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\TresureHunt.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\TresureHunt.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\TresureHunt.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\TresureHunt.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\ref\TresureHunt.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\bin\Debug\net5.0\TresureHunt.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\ref\TresureHunt.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\TresureHunt\TresureHunt\obj\Debug\net5.0\TresureHunt.genruntimeconfig.cache

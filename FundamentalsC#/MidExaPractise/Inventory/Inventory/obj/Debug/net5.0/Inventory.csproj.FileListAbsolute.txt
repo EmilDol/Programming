@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\Inventory.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\Inventory.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\Inventory.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\ref\Inventory.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\bin\Debug\net5.0\Inventory.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\ref\Inventory.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\Inventory\Inventory\obj\Debug\net5.0\Inventory.genruntimeconfig.cache

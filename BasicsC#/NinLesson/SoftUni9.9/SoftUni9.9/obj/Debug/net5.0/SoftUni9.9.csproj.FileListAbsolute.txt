@@ -1,0 +1,16 @@
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\SoftUni9.9.exe
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\SoftUni9.9.deps.json
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\SoftUni9.9.runtimeconfig.json
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\SoftUni9.9.runtimeconfig.dev.json
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\SoftUni9.9.dll
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\ref\SoftUni9.9.dll
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\bin\Debug\net5.0\SoftUni9.9.pdb
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.csproj.AssemblyReference.cache
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.AssemblyInfoInputs.cache
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.AssemblyInfo.cs
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.dll
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\ref\SoftUni9.9.dll
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.pdb
+D:\School\SoftUni\NinLesson\SoftUni9.9\SoftUni9.9\obj\Debug\net5.0\SoftUni9.9.genruntimeconfig.cache

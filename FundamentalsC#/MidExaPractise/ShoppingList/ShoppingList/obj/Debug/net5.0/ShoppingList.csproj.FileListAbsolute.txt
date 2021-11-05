@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ShoppingList.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ShoppingList.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ShoppingList.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ref\ShoppingList.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\bin\Debug\net5.0\ShoppingList.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ref\ShoppingList.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShoppingList\ShoppingList\obj\Debug\net5.0\ShoppingList.genruntimeconfig.cache

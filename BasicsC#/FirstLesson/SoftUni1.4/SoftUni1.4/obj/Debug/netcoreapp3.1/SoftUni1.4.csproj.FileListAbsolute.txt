@@ -1,0 +1,12 @@
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\bin\Debug\netcoreapp3.1\SoftUni1.4.exe
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\bin\Debug\netcoreapp3.1\SoftUni1.4.deps.json
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\bin\Debug\netcoreapp3.1\SoftUni1.4.runtimeconfig.json
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\bin\Debug\netcoreapp3.1\SoftUni1.4.runtimeconfig.dev.json
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\bin\Debug\netcoreapp3.1\SoftUni1.4.dll
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\bin\Debug\netcoreapp3.1\SoftUni1.4.pdb
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\obj\Debug\netcoreapp3.1\SoftUni1.4.AssemblyInfoInputs.cache
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\obj\Debug\netcoreapp3.1\SoftUni1.4.AssemblyInfo.cs
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\obj\Debug\netcoreapp3.1\SoftUni1.4.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\obj\Debug\netcoreapp3.1\SoftUni1.4.dll
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\obj\Debug\netcoreapp3.1\SoftUni1.4.pdb
+D:\School\SoftUni\FirstLesson\SoftUni1.4\SoftUni1.4\obj\Debug\netcoreapp3.1\SoftUni1.4.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ComputerStore.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ComputerStore.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ComputerStore.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ComputerStore.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ComputerStore.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ref\ComputerStore.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\bin\Debug\net5.0\ComputerStore.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ref\ComputerStore.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ComputerStore\ComputerStore\obj\Debug\net5.0\ComputerStore.genruntimeconfig.cache

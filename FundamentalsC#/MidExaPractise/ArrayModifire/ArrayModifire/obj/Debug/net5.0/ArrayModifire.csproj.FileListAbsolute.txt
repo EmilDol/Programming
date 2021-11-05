@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ArrayModifire.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ArrayModifire.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ArrayModifire.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ArrayModifire.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ArrayModifire.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ref\ArrayModifire.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\bin\Debug\net5.0\ArrayModifire.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ref\ArrayModifire.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ArrayModifire\ArrayModifire\obj\Debug\net5.0\ArrayModifire.genruntimeconfig.cache

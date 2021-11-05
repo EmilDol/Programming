@@ -1,0 +1,15 @@
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\Exam2.exe
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\Exam2.deps.json
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\Exam2.runtimeconfig.json
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\Exam2.runtimeconfig.dev.json
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\Exam2.dll
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\ref\Exam2.dll
+D:\School\SoftUni\Exam\Exam2\Exam2\bin\Debug\net5.0\Exam2.pdb
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.AssemblyInfoInputs.cache
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.AssemblyInfo.cs
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.dll
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\ref\Exam2.dll
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.pdb
+D:\School\SoftUni\Exam\Exam2\Exam2\obj\Debug\net5.0\Exam2.genruntimeconfig.cache

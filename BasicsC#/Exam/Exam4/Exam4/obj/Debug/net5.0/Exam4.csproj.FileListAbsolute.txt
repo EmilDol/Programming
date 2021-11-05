@@ -1,0 +1,15 @@
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\Exam4.exe
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\Exam4.deps.json
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\Exam4.runtimeconfig.json
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\Exam4.runtimeconfig.dev.json
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\Exam4.dll
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\ref\Exam4.dll
+D:\School\SoftUni\Exam\Exam4\Exam4\bin\Debug\net5.0\Exam4.pdb
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.AssemblyInfoInputs.cache
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.AssemblyInfo.cs
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.dll
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\ref\Exam4.dll
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.pdb
+D:\School\SoftUni\Exam\Exam4\Exam4\obj\Debug\net5.0\Exam4.genruntimeconfig.cache

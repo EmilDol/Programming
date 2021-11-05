@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GuineaPig/1.0.0": {
+        "runtime": {
+          "GuineaPig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuineaPig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

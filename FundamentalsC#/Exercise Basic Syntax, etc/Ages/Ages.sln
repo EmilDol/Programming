@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ages", "..\..\Exercise Basic Syntax, etc\Ages\Ages\Ages.csproj", "{BE127390-AE9B-4CB6-A68A-4984E5EA970A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE127390-AE9B-4CB6-A68A-4984E5EA970A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE127390-AE9B-4CB6-A68A-4984E5EA970A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE127390-AE9B-4CB6-A68A-4984E5EA970A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE127390-AE9B-4CB6-A68A-4984E5EA970A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9C753A-4EC5-4E8A-8739-55CF23D1800E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\SoftUni5.4.exe
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\SoftUni5.4.deps.json
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\SoftUni5.4.runtimeconfig.json
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\SoftUni5.4.runtimeconfig.dev.json
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\SoftUni5.4.dll
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\ref\SoftUni5.4.dll
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\bin\Debug\net5.0\SoftUni5.4.pdb
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.AssemblyInfoInputs.cache
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.AssemblyInfo.cs
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.dll
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\ref\SoftUni5.4.dll
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.pdb
+D:\School\SoftUni\FifthLesson\SoftUni5.4\SoftUni5.4\obj\Debug\net5.0\SoftUni5.4.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.exe
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.deps.json
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.dll
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ref\ArrayManipulator.dll
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.pdb
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.dll
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ref\ArrayManipulator.dll
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.pdb
+D:\School\SoftUni\FundamentalsC#\Exercise Methods\ArrayManipulator\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.genruntimeconfig.cache

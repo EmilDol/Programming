@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\ref\MemoryGame.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\ref\MemoryGame.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\MovingTarget.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\MovingTarget.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\MovingTarget.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\MovingTarget.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\MovingTarget.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\ref\MovingTarget.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\bin\Debug\net5.0\MovingTarget.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\ref\MovingTarget.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\MovingTarget\MovingTarget\obj\Debug\net5.0\MovingTarget.genruntimeconfig.cache

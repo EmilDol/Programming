@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ref\ShootForTheWin.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ref\ShootForTheWin.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\ShootForTheWin\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.genruntimeconfig.cache

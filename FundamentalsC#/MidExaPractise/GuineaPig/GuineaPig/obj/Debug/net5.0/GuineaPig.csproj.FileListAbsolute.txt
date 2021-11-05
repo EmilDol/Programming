@@ -1,0 +1,16 @@
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\GuineaPig.exe
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\GuineaPig.deps.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\GuineaPig.runtimeconfig.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\GuineaPig.runtimeconfig.dev.json
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\GuineaPig.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\ref\GuineaPig.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\bin\Debug\net5.0\GuineaPig.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.csproj.AssemblyReference.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.AssemblyInfoInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.AssemblyInfo.cs
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.csproj.CoreCompileInputs.cache
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\ref\GuineaPig.dll
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.pdb
+D:\School\SoftUni\FundamentalsC#\MidExaPractise\GuineaPig\GuineaPig\obj\Debug\net5.0\GuineaPig.genruntimeconfig.cache
