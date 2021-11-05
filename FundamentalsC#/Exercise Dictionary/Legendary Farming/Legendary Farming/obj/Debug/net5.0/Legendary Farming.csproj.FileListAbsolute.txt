@@ -1,0 +1,16 @@
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\Legendary Farming.exe
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\Legendary Farming.deps.json
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\Legendary Farming.runtimeconfig.json
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\Legendary Farming.runtimeconfig.dev.json
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\Legendary Farming.dll
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\ref\Legendary Farming.dll
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\bin\Debug\net5.0\Legendary Farming.pdb
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.csproj.AssemblyReference.cache
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.AssemblyInfoInputs.cache
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.AssemblyInfo.cs
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.csproj.CoreCompileInputs.cache
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.dll
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\ref\Legendary Farming.dll
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.pdb
+D:\Project\Programming\FundamentalsC#\Exercise Dictionary\Legendary Farming\Legendary Farming\obj\Debug\net5.0\Legendary Farming.genruntimeconfig.cache
