@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\Legendary Farming\\Legendary Farming\\Legendary Farming.csproj",
-      "projectName": "Legendary Farming",
-      "projectPath": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\Legendary Farming\\Legendary Farming\\Legendary Farming.csproj",
+      "projectUniqueName": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\SoftUniExamResults\\SoftUniExamResults\\SoftUniExamResults.csproj",
+      "projectName": "SoftUniExamResults",
+      "projectPath": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\SoftUniExamResults\\SoftUniExamResults\\SoftUniExamResults.csproj",
       "packagesPath": "C:\\Users\\EliteBook\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\Legendary Farming\\Legendary Farming\\obj\\",
+      "outputPath": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\SoftUniExamResults\\SoftUniExamResults\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EliteBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

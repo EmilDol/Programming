@@ -30,13 +30,13 @@ namespace Legendary_Farming
                     {
                         useful[item] += quantity;
                     }
-                    else if (!junk.ContainsKey(item))
+                    else if (junk.ContainsKey(item))
                     {
-                        junk.Add(item, quantity);
+                        junk[item] += quantity;
                     }
                     else
                     {
-                        junk[item] += quantity;
+                        junk.Add(item, quantity);
                     }
 
                     if (useful["shards"] >= 250)
@@ -44,6 +44,7 @@ namespace Legendary_Farming
                         isFound = true;
                         Console.WriteLine("Shadowmourne obtained!");
                         useful["shards"] -= 250;
+                        break;
                     }
 
                     if (useful["fragments"] >= 250)
@@ -51,6 +52,7 @@ namespace Legendary_Farming
                         isFound = true;
                         Console.WriteLine("Valanyr obtained!");
                         useful["fragments"] -= 250;
+                        break;
                     }
 
                     if (useful["motes"] >= 250)
@@ -58,12 +60,10 @@ namespace Legendary_Farming
                         isFound = true;
                         Console.WriteLine("Dragonwrath obtained!");
                         useful["motes"] -= 250;
-                    }
-
-                    if (isFound)
-                    {
                         break;
                     }
+
+                    
                 }
 
                 if (isFound)
@@ -73,16 +73,16 @@ namespace Legendary_Farming
                 command = Console.ReadLine().Split().ToArray();
             }
 
-            useful = useful.OrderByDescending(item => item.Value).ToDictionary(item => item.Key, item => item.Value);
-            junk = junk.OrderBy(item => item.Key).ToDictionary(item => item.Key, item => item.Value);
-            foreach (var VARIABLE in useful)
+            
+            foreach (var item in useful.OrderByDescending(key => key.Value).ThenBy(x => x.Key))
             {
-                Console.WriteLine($"{VARIABLE.Key}: {VARIABLE.Value}");
+                Console.WriteLine($"{item.Key}: {item.Value}");
             }
-            foreach (var VARIABLE in junk)
+            foreach (var Junkitem in junk.OrderBy(x => x.Key))
             {
-                Console.WriteLine($"{VARIABLE.Key}: {VARIABLE.Value}");
+                Console.WriteLine($"{Junkitem.Key}: {Junkitem.Value}");
             }
+            
         }
     }
 }
