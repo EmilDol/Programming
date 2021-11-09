@@ -49,7 +49,6 @@ namespace SoftUniExamResults
                     if (!grades[path].ContainsKey(user))
                     {
                         grades[path].Add(user, score);
-
                     }
                     else
                     {
@@ -59,6 +58,14 @@ namespace SoftUniExamResults
                             temp[user] = score;
                         }
 
+                        if (!grades[path].ContainsKey("duplicates"))
+                        {
+                            temp.Add("duplicates", 1);
+                        }
+                        else
+                        {
+                            temp["duplicates"]++;
+                        }
                         grades[path] = temp;
                     }
                 }
@@ -71,15 +78,30 @@ namespace SoftUniExamResults
             }
 
             Console.WriteLine("Results:");
+
+            Dictionary<string, int> temp1 = new Dictionary<string, int>();
             for (int i = 0; i < grades.Count; i++)
             {
                 foreach (var VARIABLE in grades.ElementAt(i).Value)
                 {
-                    Console.WriteLine($"{VARIABLE.Key} | {VARIABLE.Value}");
+                    if (VARIABLE.Key == "banned" || VARIABLE.Key == "duplicates")
+                    {
+                        continue;
+                    }
+
+                    temp1.Add(VARIABLE.Key, VARIABLE.Value);
                 }
             }
 
-            Console.WriteLine("Submissions: ");
+            temp1 = temp1.OrderByDescending(x => x.Value).ThenBy(x => x.Key)
+                .ToDictionary(x => x.Key, x => x.Value);
+            foreach (var VARIABLE in temp1)
+            {
+                Console.WriteLine($"{VARIABLE.Key} | {VARIABLE.Value}");
+            }
+
+            Console.WriteLine("Submissions:");
+            Dictionary<string, int> temp2 = new Dictionary<string, int>();
             foreach (var VARIABLE in grades)
             {
                 int submissions = VARIABLE.Value.Count;
@@ -88,7 +110,19 @@ namespace SoftUniExamResults
                     submissions += VARIABLE.Value["banned"] - 1;
                 }
 
-                Console.WriteLine($"{VARIABLE.Key} - {submissions}");
+                if (VARIABLE.Value.ContainsKey("duplicates"))
+                {
+                    submissions += VARIABLE.Value["duplicates"] - 1;
+                }
+
+                temp2.Add(VARIABLE.Key, submissions);
+            }
+
+            temp2 = temp2.OrderByDescending(x => x.Value).ThenBy(x => x.Key)
+                .ToDictionary(x => x.Key, x => x.Value);
+            foreach (var VARIABLE in temp2)
+            {
+                Console.WriteLine($"{VARIABLE.Key} - {VARIABLE.Value}");
             }
         }
     }
