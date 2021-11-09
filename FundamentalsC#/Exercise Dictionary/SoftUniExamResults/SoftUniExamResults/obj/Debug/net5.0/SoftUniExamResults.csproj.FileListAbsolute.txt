@@ -1,0 +1,16 @@
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.exe
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.deps.json
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.runtimeconfig.json
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.runtimeconfig.dev.json
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\ref\SoftUniExamResults.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.pdb
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.csproj.AssemblyReference.cache
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.AssemblyInfoInputs.cache
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.AssemblyInfo.cs
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\ref\SoftUniExamResults.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.pdb
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\SoftUniExamResults\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.genruntimeconfig.cache
