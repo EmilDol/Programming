@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\SoftUni\\FundamentalsC#\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\Projects\\Programming\\FundamentalsC#\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "D:\\School\\SoftUni\\FundamentalsC#\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "D:\\Projects\\Programming\\FundamentalsC#\\Demo\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\EliteBook\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\SoftUni\\FundamentalsC#\\Demo\\Demo\\obj\\",
+      "outputPath": "D:\\Projects\\Programming\\FundamentalsC#\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EliteBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\bin\Debug\net6.0\Plant Discovery.exe
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\bin\Debug\net6.0\Plant Discovery.deps.json
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\bin\Debug\net6.0\Plant Discovery.runtimeconfig.json
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\bin\Debug\net6.0\Plant Discovery.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\bin\Debug\net6.0\ref\Plant Discovery.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\bin\Debug\net6.0\Plant Discovery.pdb
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.csproj.AssemblyReference.cache
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.AssemblyInfoInputs.cache
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.AssemblyInfo.cs
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\ref\Plant Discovery.dll
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.pdb
+D:\Projects\Programming\FundamentalsC#\Exercise Dictionary\Plant Discovery\Plant Discovery\obj\Debug\net6.0\Plant Discovery.genruntimeconfig.cache

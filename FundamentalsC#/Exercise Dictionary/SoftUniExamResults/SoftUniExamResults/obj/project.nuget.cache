@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "De8GASy0iRlrZMPxP85hS9cLVaysb4os8hJRgJPYAMMLK4mB27K38urqeUjKAokNu1QsMoohJ0TpHohfjbGHkQ==",
+  "dgSpecHash": "Cg4VIcl6P0fswLo/vJlrJ24gEgDi3o/qnEoezL32SfdSs2HmNVI8ug7cW8ISceDyq+sImlkG4rk2h3tB/kIj1A==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Programming\\FundamentalsC#\\Exercise Dictionary\\SoftUniExamResults\\SoftUniExamResults\\SoftUniExamResults.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
