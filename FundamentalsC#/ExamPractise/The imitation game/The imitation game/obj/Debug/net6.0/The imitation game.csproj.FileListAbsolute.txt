@@ -1,0 +1,15 @@
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\bin\Debug\net6.0\The imitation game.exe
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\bin\Debug\net6.0\The imitation game.deps.json
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\bin\Debug\net6.0\The imitation game.runtimeconfig.json
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\bin\Debug\net6.0\The imitation game.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\bin\Debug\net6.0\ref\The imitation game.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\bin\Debug\net6.0\The imitation game.pdb
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.csproj.AssemblyReference.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.AssemblyInfoInputs.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.AssemblyInfo.cs
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\ref\The imitation game.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.pdb
+D:\Projects\Programming\FundamentalsC#\ExamPractise\The imitation game\The imitation game\obj\Debug\net6.0\The imitation game.genruntimeconfig.cache

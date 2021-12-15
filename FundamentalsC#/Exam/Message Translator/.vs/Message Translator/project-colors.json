@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6482ab11-9cc7-4c97-bd58-baa3fee85719": {
+      "ProjectGuid": "6482ab11-9cc7-4c97-bd58-baa3fee85719",
+      "DisplayName": "Message Translator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

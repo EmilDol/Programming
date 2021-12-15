@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EJ/KEqRwciTBvpaG1sYOVsLQNyTZSUxRE2OfmME75MsvmHpf3+ibD5QQyEQPGcagdCda11I7IxfKjK8Inhb2iA==",
+  "dgSpecHash": "9Xvd+7tqbUcG7b5i4FFI7zqHlzp2zFeB73OHbiUTHZH2hESvigoVSzbvF1acIefqpeKjakKRmAUj3XYn93MvVQ==",
   "success": true,
-  "projectFilePath": "D:\\School\\SoftUni\\Exam\\Exam5\\Exam5\\Exam5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\Programming\\BasicsC#\\Exam\\Exam5\\Exam5\\Exam5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

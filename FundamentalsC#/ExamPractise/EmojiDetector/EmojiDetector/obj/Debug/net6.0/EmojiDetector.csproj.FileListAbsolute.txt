@@ -1,0 +1,15 @@
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\bin\Debug\net6.0\EmojiDetector.exe
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\bin\Debug\net6.0\EmojiDetector.deps.json
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\bin\Debug\net6.0\EmojiDetector.runtimeconfig.json
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\bin\Debug\net6.0\EmojiDetector.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\bin\Debug\net6.0\ref\EmojiDetector.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\bin\Debug\net6.0\EmojiDetector.pdb
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.csproj.AssemblyReference.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.AssemblyInfoInputs.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.AssemblyInfo.cs
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\ref\EmojiDetector.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.pdb
+D:\Projects\Programming\FundamentalsC#\ExamPractise\EmojiDetector\EmojiDetector\obj\Debug\net6.0\EmojiDetector.genruntimeconfig.cache

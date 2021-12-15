@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02e02090-e34f-4912-981f-385f607eb8a7": {
+      "ProjectGuid": "02e02090-e34f-4912-981f-385f607eb8a7",
+      "DisplayName": "Password Validator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

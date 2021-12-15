@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a145c3f-0177-48f5-af1f-24874a05d2e2": {
+      "ProjectGuid": "0a145c3f-0177-48f5-af1f-24874a05d2e2",
+      "DisplayName": "Santa's secret helper",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

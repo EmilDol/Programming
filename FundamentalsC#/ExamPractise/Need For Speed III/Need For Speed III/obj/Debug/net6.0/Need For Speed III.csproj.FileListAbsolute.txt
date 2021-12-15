@@ -1,0 +1,15 @@
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\bin\Debug\net6.0\Need For Speed III.exe
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\bin\Debug\net6.0\Need For Speed III.deps.json
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\bin\Debug\net6.0\Need For Speed III.runtimeconfig.json
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\bin\Debug\net6.0\Need For Speed III.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\bin\Debug\net6.0\ref\Need For Speed III.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\bin\Debug\net6.0\Need For Speed III.pdb
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.csproj.AssemblyReference.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.AssemblyInfoInputs.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.AssemblyInfo.cs
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\ref\Need For Speed III.dll
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.pdb
+D:\Projects\Programming\FundamentalsC#\ExamPractise\Need For Speed III\Need For Speed III\obj\Debug\net6.0\Need For Speed III.genruntimeconfig.cache

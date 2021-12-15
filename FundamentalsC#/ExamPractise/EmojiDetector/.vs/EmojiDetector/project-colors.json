@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62601b2a-7280-4fab-b3e8-bc7e2476f754": {
+      "ProjectGuid": "62601b2a-7280-4fab-b3e8-bc7e2476f754",
+      "DisplayName": "EmojiDetector",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

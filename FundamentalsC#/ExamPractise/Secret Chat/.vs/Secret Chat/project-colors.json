@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f4e8d48-ade9-471d-985b-096fb8d0fab9": {
+      "ProjectGuid": "6f4e8d48-ade9-471d-985b-096fb8d0fab9",
+      "DisplayName": "Secret Chat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

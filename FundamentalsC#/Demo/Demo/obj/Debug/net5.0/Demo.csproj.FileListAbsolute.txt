@@ -1,0 +1,16 @@
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\Demo.exe
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\Demo.deps.json
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\Demo.dll
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\ref\Demo.dll
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\bin\Debug\net5.0\Demo.pdb
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.dll
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\ref\Demo.dll
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.pdb
+D:\Projects\Programming\FundamentalsC#\Demo\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1e85d50-2569-42e5-aa24-852281a66e8b": {
+      "ProjectGuid": "d1e85d50-2569-42e5-aa24-852281a66e8b",
+      "DisplayName": "Fancy Barcodes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

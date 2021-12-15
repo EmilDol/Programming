@@ -1,60 +1,66 @@
-﻿class Program
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+using System.Text;
+
+namespace Name
 {
-    static void Main()
+    class Plant
     {
-        Dictionary<string, List<int>> plants = new Dictionary<string, List<int>>();
-        int n = int.Parse(Console.ReadLine());
-        string[] command = Console.ReadLine().Split("<->").ToArray();
-        for (int i = 0; i < n; i++)
-        {
-            if (!plants.ContainsKey(command[0]))
-            {
-                plants.Add(command[0], new List<int>() { int.Parse(command[1]) });
-            }
-            else
-            {
-                plants[command[0]][0] = int.Parse(command[1]);
-            }
-            command = Console.ReadLine().Split("<->").ToArray();
-        }
+        private List<double> rating = new List<double>();
 
-        while (true)
+        public double Rarity { get; set; }
+        public List<double> Rating { get => rating; set => rating = value; }
+    }
+    class Program
+    {
+        static void Main()
         {
-            command = Console.ReadLine().Split().ToArray();
-            switch (command[0])
+            Dictionary<string, Plant> plants = new Dictionary<string, Plant>();
+            double n = double.Parse(Console.ReadLine());
+            string[] command;
+            for (double i = 0; i < n; i++)
             {
-                case "Rate:":
-                    if (!plants.ContainsKey(command[1]))
-                    {
-                        Console.WriteLine("error");
+                command = Console.ReadLine().Split("<->");
+                if (!plants.ContainsKey(command[0]))
+                {
+                    
+                    plants.Add(command[0], new Plant());
+                    plants[command[0]].Rarity = double.Parse(command[1]);
+                }
+                else
+                {
+                    plants[command[0]].Rarity = double.Parse(command[1]);
+                }
+            }
+            command = Console.ReadLine().Split(": ");
+            
+            while (command[0]!= "Exhibition")
+            {
+                switch (command[0])
+                {
+                    case "Rate":
+                        string[] temp = command[1].Split(" - ");
+                        plants[temp[0]].Rating.Add(double.Parse(temp[1]));
                         break;
-                    }
-                    plants[command[1]].Add(int.Parse(command[3]));
-                    break;
-                case "Update:":
-                    if (!plants.ContainsKey(command[1]))
-                    {
-                        Console.WriteLine("error");
+                    case "Update":
+                        string[] otherTemp = command[1].Split(" - ");
+                        plants[otherTemp[0]].Rarity = double.Parse(otherTemp[1]);
                         break;
-                    }
-                    plants[command[1]][0] = int.Parse(command[3]);
-                    break;
-                case "Reset:":
-                    int rarity = plants[command[1]][0];
-                    plants[command[1]].Clear();
-                    plants[command[1]].Add(rarity);
-                    break;
-                default:
-                    Console.WriteLine("Plants for the exhibition:");
-                    plants = plants.OrderByDescending(x => x.Value);
-                    for (int i = 0; i < plants.Count; i++)
-                    {
-                        double avg = plants.ElementAt(i).Value.Sum() - plants.ElementAt(i).Value[0];
-                        avg /= plants.ElementAt(i).Value.Count - 1;
-                        Console.WriteLine($"- {plants.ElementAt(i).Key}; Rarity: {plants.ElementAt(i).Value[0]}; Rating: {avg:f2}");
-                    }
-
-                    return;
+                    case "Reset":
+                        plants[command[1]].Rating.Clear();
+                        plants[command[1]].Rating.Add(0);
+                        
+                        break;
+                }
+                command = Console.ReadLine().Split(": ");
+            }
+            plants = plants.OrderByDescending(x => x.Value.Rarity).ThenByDescending(x => x.Value.Rating.Average()).ToDictionary(x => x.Key, x => x.Value);
+            Console.WriteLine("Plants for the exhibition:");
+            foreach (var item in plants)
+            {
+                Console.WriteLine($"- {item.Key}; Rarity: {item.Value.Rarity}; Rating: {item.Value.Rating.Average():f2}");
             }
         }
     }

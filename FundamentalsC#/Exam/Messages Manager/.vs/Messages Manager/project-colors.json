@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "637dcf75-6995-4f85-a746-f17e73a3eec0": {
+      "ProjectGuid": "637dcf75-6995-4f85-a746-f17e73a3eec0",
+      "DisplayName": "Messages Manager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
