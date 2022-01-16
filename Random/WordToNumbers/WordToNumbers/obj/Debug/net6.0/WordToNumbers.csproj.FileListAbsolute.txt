@@ -1,0 +1,15 @@
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\bin\Debug\net6.0\WordToNumbers.exe
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\bin\Debug\net6.0\WordToNumbers.deps.json
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\bin\Debug\net6.0\WordToNumbers.runtimeconfig.json
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\bin\Debug\net6.0\WordToNumbers.dll
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\bin\Debug\net6.0\ref\WordToNumbers.dll
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\bin\Debug\net6.0\WordToNumbers.pdb
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.csproj.AssemblyReference.cache
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.AssemblyInfoInputs.cache
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.AssemblyInfo.cs
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.dll
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\ref\WordToNumbers.dll
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.pdb
+D:\Projects\Programming\Random\WordToNumbers\WordToNumbers\obj\Debug\net6.0\WordToNumbers.genruntimeconfig.cache

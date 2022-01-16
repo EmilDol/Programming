@@ -1,0 +1,15 @@
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.exe
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.dll
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\bin\Debug\net6.0\ref\ReverseString.dll
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.dll
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+D:\Projects\Programming\AdvancedC#\StacksAndQueues\ReverseString\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
