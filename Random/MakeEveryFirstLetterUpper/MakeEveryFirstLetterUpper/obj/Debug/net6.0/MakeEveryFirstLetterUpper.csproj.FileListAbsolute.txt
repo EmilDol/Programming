@@ -1,0 +1,15 @@
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\bin\Debug\net6.0\MakeEveryFirstLetterUpper.exe
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\bin\Debug\net6.0\MakeEveryFirstLetterUpper.deps.json
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\bin\Debug\net6.0\MakeEveryFirstLetterUpper.runtimeconfig.json
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\bin\Debug\net6.0\MakeEveryFirstLetterUpper.dll
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\bin\Debug\net6.0\ref\MakeEveryFirstLetterUpper.dll
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\bin\Debug\net6.0\MakeEveryFirstLetterUpper.pdb
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.csproj.AssemblyReference.cache
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.AssemblyInfoInputs.cache
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.AssemblyInfo.cs
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.dll
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\ref\MakeEveryFirstLetterUpper.dll
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.pdb
+D:\Projects\Programming\Random\MakeEveryFirstLetterUpper\MakeEveryFirstLetterUpper\obj\Debug\net6.0\MakeEveryFirstLetterUpper.genruntimeconfig.cache

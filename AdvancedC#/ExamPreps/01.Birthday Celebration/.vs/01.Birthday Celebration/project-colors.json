@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64b69b01-3e5a-41c6-8aaf-7460203b5656": {
+      "ProjectGuid": "64b69b01-3e5a-41c6-8aaf-7460203b5656",
+      "DisplayName": "01.Birthday Celebration",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

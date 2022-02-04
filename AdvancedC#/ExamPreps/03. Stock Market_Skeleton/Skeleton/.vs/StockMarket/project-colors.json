@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f364afd5-2328-467a-aad5-9ea261cdd224": {
+      "ProjectGuid": "f364afd5-2328-467a-aad5-9ea261cdd224",
+      "DisplayName": "StockMarket",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

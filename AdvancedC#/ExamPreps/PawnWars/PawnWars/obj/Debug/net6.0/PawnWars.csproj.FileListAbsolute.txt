@@ -1,0 +1,15 @@
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\bin\Debug\net6.0\PawnWars.exe
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\bin\Debug\net6.0\PawnWars.deps.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\bin\Debug\net6.0\PawnWars.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\bin\Debug\net6.0\PawnWars.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\bin\Debug\net6.0\ref\PawnWars.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\bin\Debug\net6.0\PawnWars.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\ref\PawnWars.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\PawnWars\PawnWars\obj\Debug\net6.0\PawnWars.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\bin\Debug\net6.0\PasteTheOldTemplate.exe
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\bin\Debug\net6.0\PasteTheOldTemplate.deps.json
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\bin\Debug\net6.0\PasteTheOldTemplate.runtimeconfig.json
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\bin\Debug\net6.0\PasteTheOldTemplate.dll
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\bin\Debug\net6.0\ref\PasteTheOldTemplate.dll
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\bin\Debug\net6.0\PasteTheOldTemplate.pdb
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.csproj.AssemblyReference.cache
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.AssemblyInfoInputs.cache
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.AssemblyInfo.cs
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.dll
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\ref\PasteTheOldTemplate.dll
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.pdb
+D:\Projects\Programming\Random\PasteTheOldTemplate\PasteTheOldTemplate\obj\Debug\net6.0\PasteTheOldTemplate.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

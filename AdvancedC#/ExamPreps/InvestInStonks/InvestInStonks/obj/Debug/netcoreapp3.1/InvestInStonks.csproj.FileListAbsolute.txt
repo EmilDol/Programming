@@ -1,0 +1,14 @@
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\bin\Debug\netcoreapp3.1\InvestInStonks.exe
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\bin\Debug\netcoreapp3.1\InvestInStonks.deps.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\bin\Debug\netcoreapp3.1\InvestInStonks.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\bin\Debug\netcoreapp3.1\InvestInStonks.runtimeconfig.dev.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\bin\Debug\netcoreapp3.1\InvestInStonks.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\bin\Debug\netcoreapp3.1\InvestInStonks.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\InvestInStonks\InvestInStonks\obj\Debug\netcoreapp3.1\InvestInStonks.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.exe
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.deps.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.runtimeconfig.dev.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\bin\Debug\netcoreapp3.1\BlackSmith.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\BlackSmith\BlackSmith\obj\Debug\netcoreapp3.1\BlackSmith.genruntimeconfig.cache

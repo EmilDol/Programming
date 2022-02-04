@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59074269-0b78-47c3-9110-1b536a2bad79": {
+      "ProjectGuid": "59074269-0b78-47c3-9110-1b536a2bad79",
+      "DisplayName": "MakeEveryFirstLetterUpper",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

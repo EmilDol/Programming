@@ -1,0 +1,15 @@
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\bin\Debug\net6.0\Armory.exe
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\bin\Debug\net6.0\Armory.deps.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\bin\Debug\net6.0\Armory.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\bin\Debug\net6.0\Armory.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\bin\Debug\net6.0\ref\Armory.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\bin\Debug\net6.0\Armory.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\ref\Armory.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\Armory\Armory\obj\Debug\net6.0\Armory.genruntimeconfig.cache

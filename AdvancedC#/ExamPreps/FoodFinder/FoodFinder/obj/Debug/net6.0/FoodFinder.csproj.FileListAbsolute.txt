@@ -1,0 +1,15 @@
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\bin\Debug\net6.0\FoodFinder.exe
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\bin\Debug\net6.0\FoodFinder.deps.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\bin\Debug\net6.0\FoodFinder.runtimeconfig.json
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\bin\Debug\net6.0\FoodFinder.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\bin\Debug\net6.0\ref\FoodFinder.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\bin\Debug\net6.0\FoodFinder.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.csproj.AssemblyReference.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.AssemblyInfoInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.AssemblyInfo.cs
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\ref\FoodFinder.dll
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.pdb
+D:\Projects\Programming\AdvancedC#\ExamPreps\FoodFinder\FoodFinder\obj\Debug\net6.0\FoodFinder.genruntimeconfig.cache

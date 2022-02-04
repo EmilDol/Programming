@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5db1e02f-327d-4735-978c-8c74a39f392f": {
+      "ProjectGuid": "5db1e02f-327d-4735-978c-8c74a39f392f",
+      "DisplayName": "FoodFinder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
